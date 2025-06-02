@@ -1,0 +1,19 @@
+11-data-exports/README.md
+# Data Exports
+*Structured data for analysis and external use*
+
+## CSV Files
+
+- [`lab-data.csv`](lab-data.csv) - All laboratory values in spreadsheet format
+- [`symptom-data.csv`](symptom-data.csv) - Symptoms tracked over time
+- [`timeline-data.csv`](timeline-data.csv) - Major events chronologically
+- [`provider-visit-data.csv`](provider-visit-data.csv) - Healthcare utilization data
+
+## Usage
+These files are formatted for:
+- Statistical analysis software
+- Spreadsheet applications
+- Data visualization tools
+- Research collaboration
+
+*Last updated: June 2, 2025*
