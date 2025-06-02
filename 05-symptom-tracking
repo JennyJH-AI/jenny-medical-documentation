@@ -1,0 +1,25 @@
+05-symptom-tracking/README.md
+# Symptom Tracking
+*Active symptom monitoring and episodic event documentation*
+
+## Active Tracking Files
+
+- **NEU Updates Archive** - [`neu-updates-archive.md`](neu-updates-archive.md)
+  - Neurological Event Updates - discrete events requiring documentation
+  - **PRIORITY FILE** - Most actively maintained
+
+## Daily Patterns
+- [`daily-patterns/current-symptoms.md`](daily-patterns/current-symptoms.md) - Current active symptoms
+- [`daily-patterns/sleep-patterns.md`](daily-patterns/sleep-patterns.md) - Sleep architecture and patterns
+- [`daily-patterns/autonomic-episodes.md`](daily-patterns/autonomic-episodes.md) - Autonomic dysfunction episodes
+- [`daily-patterns/pain-tracking.md`](daily-patterns/pain-tracking.md) - Pain patterns and triggers
+
+## Episodic Events
+- [`episodic-events/major-episodes.md`](episodic-events/major-episodes.md) - Significant acute events
+- [`episodic-events/hospital-visits.md`](episodic-events/hospital-visits.md) - Emergency department and hospital visits
+- [`episodic-events/crisis-patterns.md`](episodic-events/crisis-patterns.md) - Crisis pattern analysis
+
+## Evolution Analysis
+- [`symptom-evolution.md`](symptom-evolution.md) - How symptoms have changed over time
+
+*Last updated: June 2, 2025*
