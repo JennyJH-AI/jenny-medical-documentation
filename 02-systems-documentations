@@ -1,0 +1,20 @@
+02-systems-documentations/README.md
+# Systems Documentation
+*Detailed analysis by organ system*
+
+## System Files
+
+- **Neurological System** - [`neurological-system.md`](neurological-system.md)
+  - Cranial nerves, CNS, autonomic dysfunction
+- **Immune & Inflammatory** - [`immune-inflammatory.md`](immune-inflammatory.md)
+  - Immune function evolution and inflammatory responses
+- **Cardiovascular & Autonomic** - [`cardiovascular-autonomic.md`](cardiovascular-autonomic.md)
+  - Heart rate patterns, blood pressure, autonomic instability
+- **Endocrine System** - [`endocrine-system.md`](endocrine-system.md)
+  - Thyroid, reproductive, hormonal changes
+- **Gastrointestinal** - [`gastrointestinal.md`](gastrointestinal.md)
+  - GI symptoms and dysfunction patterns
+- **System Interactions** - [`system-interactions.md`](system-interactions.md)
+  - How different systems affect each other
+
+*Last updated: June 2, 2025*
