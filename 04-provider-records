@@ -1,0 +1,23 @@
+04-provider-records/README.md
+# Provider Records
+*Healthcare system documentation and provider interactions*
+
+## Healthcare Facilities
+
+### Benefis Health System
+- [`benefis-health-system/2019-records/`](benefis-health-system/2019-records/) - Initial presentation and acute phase
+- [`benefis-health-system/2020-records/`](benefis-health-system/2020-records/) - Ongoing care
+- [`benefis-health-system/2025-records/`](benefis-health-system/2025-records/) - Recent crisis documentation
+
+### Mayo Clinic
+- [`mayo-clinic/march-2020-comprehensive/`](mayo-clinic/march-2020-comprehensive/) - Comprehensive evaluation
+- [`mayo-clinic/provider-assessments.md`](mayo-clinic/provider-assessments.md) - Provider conclusions
+
+### Other Facilities
+- [`university-utah/surgical-records-2023/`](university-utah/surgical-records-2023/) - Hip surgery inflammatory response
+- [`great-falls-clinic/recent-labs-2025/`](great-falls-clinic/recent-labs-2025/) - Current laboratory monitoring
+
+## Analysis
+- [`provider-analysis.md`](provider-analysis.md) - Patterns in provider responses and healthcare utilization
+
+*Last updated: June 2, 2025*
