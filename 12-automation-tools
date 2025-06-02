@@ -1,0 +1,17 @@
+12-automation-tools/README.md
+# Automation Tools
+*Templates and tools for consistent documentation*
+
+## Templates
+- [`templates/neu-update-template.md`](templates/neu-update-template.md) - Template for neurological events
+- [`templates/lab-result-template.md`](templates/lab-result-template.md) - Template for new lab results
+- [`templates/provider-visit-template.md`](templates/provider-visit-template.md) - Template for provider visits
+
+## Scripts
+- [`scripts/data-analysis.py`](scripts/data-analysis.py) - Python scripts for analysis
+- [`scripts/report-generator.py`](scripts/report-generator.py) - Automated report generation
+
+## Documentation
+- [`automation-readme.md`](automation-readme.md) - How to use automation tools
+
+*Last updated: June 2, 2025*
