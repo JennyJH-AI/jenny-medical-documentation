@@ -1,0 +1,22 @@
+09-current-active/README.md
+# Current Active Issues
+*Most urgent current medical status and immediate concerns*
+
+## Priority Files
+
+- **Immediate Concerns** - [`immediate-concerns.md`](immediate-concerns.md)
+  - Most urgent current issues requiring attention
+- **Current Medications** - [`medication-list-current.md`](medication-list-current.md)
+  - Active medications, dosages, and recent changes
+- **Provider Communications** - [`provider-communications.md`](provider-communications.md)
+  - Recent provider interactions and communications
+- **Upcoming Appointments** - [`next-appointments.md`](next-appointments.md)
+  - Scheduled medical appointments and preparations
+- **Questions for Providers** - [`questions-for-providers.md`](questions-for-providers.md)
+  - Prepared questions for upcoming medical visits
+
+## Status
+**Priority Level**: High - These files should be updated frequently
+**Update Frequency**: After any significant development or provider interaction
+
+*Last updated: June 2, 2025*
