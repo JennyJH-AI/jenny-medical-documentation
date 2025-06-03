@@ -1,1 +1,20 @@
 03-laboratory-data/README.md
+# Laboratory Data Analysis
+*Laboratory evolution and quantitative analysis*
+
+## Data Categories
+
+- **Immune Evolution** - [`immune-evolution.md`](immune-evolution.md)
+  - WBC, neutrophil/lymphocyte patterns over time
+- **Organ Function** - [`organ-function.md`](organ-function.md)
+  - BUN, liver enzymes, kidney function progression
+- **Inflammatory Markers** - [`inflammatory-markers.md`](inflammatory-markers.md)
+  - ESR, CRP, autoimmune marker trends
+- **Hematologic Progression** - [`hematologic-progression.md`](hematologic-progression.md)
+  - Hemoglobin, platelets, MCHC changes
+
+## Data Exports
+- **Lab Comparisons** - [`lab-comparisons.csv`](lab-comparisons.csv)
+- **Reference Ranges** - [`reference-ranges.md`](reference-ranges.md)
+
+*Last updated: June 2, 2025*
