@@ -1,1 +1,38 @@
 08-imaging-and-procedures
+# Imaging and Procedures
+*Complete diagnostic testing documentation*
+
+## Imaging Studies
+
+- **Imaging Timeline** - [`imaging-timeline.md`](imaging-timeline.md)
+  - Chronological list of all scans: CT, MRI, X-rays, ultrasounds (2019-2025)
+  - Results summary and clinical context for each study
+- **Procedure Results** - [`procedure-results.md`](procedure-results.md)
+  - Lumbar puncture (Dec 2019), manometry, spirometry, laryngoscopy
+  - EEG, swallow studies, and specialized testing results
+- **Cardiac Studies** - [`cardiac-studies.md`](cardiac-studies.md)
+  - Holter monitor analysis (Mar 2020) - autonomic dysfunction documentation
+  - Echocardiograms, EKGs, and cardiovascular testing
+- **Pathology Reports** - [`pathology-reports.md`](pathology-reports.md)
+  - Skin biopsy results, CSF analysis, tissue pathology
+
+## Key Findings Summary
+
+### Normal Structural Studies
+- All CT scans (head, neck, chest, abdomen) - normal
+- Brain MRI (2020) - normal except trace white matter changes
+- Cardiac structure (echo) - normal function
+
+### Abnormal Functional Studies  
+- **Holter Monitor**: Severe autonomic dysfunction, inverted circadian rhythm
+- **CSF Analysis**: Normal despite clinical meningitis presentation
+- **Skin Biopsy**: Inflammatory changes
+
+### Anatomical Variants
+- 6 lumbar vertebrae (normal variant)
+- Spina bifida occulta S1
+
+## Clinical Significance
+**Pattern**: Normal structural imaging with abnormal functional testing suggests brainstem/autonomic dysfunction rather than structural pathology.
+
+*Last updated: June 3, 2025*
