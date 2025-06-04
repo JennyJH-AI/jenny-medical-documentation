@@ -1,0 +1,56 @@
+10-reference-materials
+# Reference Materials
+*Medical terminology, research, and comparative information*
+
+## Reference Files
+
+- **Medical Terminology** - [`medical-terminology.md`](medical-terminology.md)
+  - Definitions of medical terms used throughout documentation
+  - Abbreviations and acronym reference
+  - Specialized terms related to post-viral syndromes
+- **Normal Ranges** - [`normal-ranges.md`](normal-ranges.md)
+  - Reference ranges for all laboratory tests over time
+  - Age and gender-specific normal values
+  - Laboratory facility variations and reference adjustments
+- **Medication Interactions** - [`medication-interactions.md`](medication-interactions.md)
+  - Drug interaction information for current medication combinations
+  - Historical interaction analysis (Mayo 2020 identified major interactions)
+  - Monitoring requirements for complex medication regimens
+- **Research Articles** - [`research-articles.md`](research-articles.md)
+  - Relevant peer-reviewed research on post-viral syndromes
+  - Studies on cranial nerve involvement, autonomic dysfunction
+  - Long COVID and post-viral neurological sequelae research
+- **Similar Cases** - [`similar-cases.md`](similar-cases.md)
+  - Other documented cases with similar presentation patterns
+  - Comparative analysis with published case studies
+  - Differential diagnosis considerations
+
+## Medical Context Resources
+
+### Post-Viral Syndrome Research
+- Cranial nerve involvement patterns
+- Autonomic dysfunction post-viral
+- Immune system recovery timelines
+- Brainstem inflammation sequelae
+
+### Professional Baseline Context
+- Ballet dancer proprioceptive training
+- Hypermobility syndrome considerations
+- Elite athlete baseline comparisons
+- Professional movement assessment standards
+
+### Comparative Pathophysiology
+- Viral meningitis sequelae
+- Post-infectious neurological syndromes
+- Autoimmune vs. inflammatory patterns
+- Structural vs. functional nervous system changes
+
+## Usage Guidelines
+These references support:
+- Provider communication with medical terminology
+- Laboratory interpretation with proper context
+- Treatment decisions with interaction awareness
+- Research correlation with published literature
+- Case comparison for diagnostic insights
+
+*Last updated: June 3, 2025*
