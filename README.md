@@ -1,144 +1,98 @@
 # Jenny Medical Documentation Repository
-*Comprehensive Medical Encyclopedia & Data Management System*
-
-## 🏥 Repository Overview
-
-This repository contains comprehensive documentation of a complex post-viral syndrome case spanning November 2019 to present. The documentation follows medical encyclopedia standards with objective data collection, systematic organization, and pattern analysis to support ongoing medical care and research.
-
-## 🚀 Quick Start
-
-**For New Claude Conversations:**
-1. 📋 **Start with**: [`CURRENT-STATUS.md`](CURRENT-STATUS.md) - Always up-to-date status
-2. 📖 **Then read**: [`INSTRUCTIONS-FOR-CLAUDE.md`](INSTRUCTIONS-FOR-CLAUDE.md) - Working guidelines
-3. 🔍 **Navigate to**: Relevant section folders based on your needs
-
-**For Medical Providers:**
-- **Current Status**: [`CURRENT-STATUS.md`](CURRENT-STATUS.md)
-- **Disease Timeline**: [`01-timeline/`](01-timeline/)
-- **Laboratory Data**: [`03-laboratory-data/`](03-laboratory-data/)
-- **Provider Records**: [`04-provider-records/`](04-provider-records/)
-
-## 📊 Key Medical Context
-
-**Disease Type**: Post-Viral Multi-System Syndrome  
-**Onset**: November 10, 2019 (viral meningitis presentation)  
-**Duration**: 5+ years ongoing  
-**Current Phase**: Laboratory recovery + neurological crisis acceleration
-
-**Critical Pattern**: 4 major neurological events in 22 days (May 2025)
-
-## 📁 Repository Structure
-
-### Core Navigation Files
-- [`CURRENT-STATUS.md`](CURRENT-STATUS.md) - Always current medical status
-- [`INSTRUCTIONS-FOR-CLAUDE.md`](INSTRUCTIONS-FOR-CLAUDE.md) - AI assistance guidelines
-
-### Primary Documentation Sections
-
-#### 🕐 [`01-timeline/`](01-timeline/)
-Complete disease progression from viral onset to current crisis
-- Phase 1: Viral Onset (Nov 2019)
-- Phase 2: Acute Cascade (Dec 2019 - Mar 2020) 
-- Phase 3: Chronic Adaptation (2020-2023)
-- Phase 4: Current Crisis (2024-2025)
-
-#### 🧠 [`02-systems-documentation/`](02-systems-documentation/)
-Detailed analysis by organ system
-- Neurological system (cranial nerves, CNS, autonomic)
-- Immune & inflammatory responses
-- Cardiovascular & autonomic dysfunction
-- Endocrine system changes
-
-#### 🔬 [`03-laboratory-data/`](03-laboratory-data/)
-Laboratory evolution and analysis
-- Immune system trajectory (2019-2025)
-- Organ function progression
-- Inflammatory marker patterns
-- Hematologic changes over time
-
-#### 🏥 [`04-provider-records/`](04-provider-records/)
-Healthcare system documentation
-- Benefis Health System (primary care)
-- Mayo Clinic (comprehensive evaluation)
-- University of Utah (surgical records)
-- Provider response patterns
-
-#### 📈 [`05-symptom-tracking/`](05-symptom-tracking/)
-Active symptom monitoring
-- **NEU Updates Archive** - Neurological Event Updates
-- Daily pattern tracking
-- Major episodic events
-- Symptom evolution analysis
-
-### Analysis & Reference Sections
-
-#### 📊 [`06-analysis-and-patterns/`](06-analysis-and-patterns/)
-Statistical analysis and pattern recognition
-
-#### 💊 [`07-treatment-responses/`](07-treatment-responses/)
-Comprehensive treatment history and responses
-
-#### 🖼️ [`08-imaging-and-procedures/`](08-imaging-and-procedures/)
-Diagnostic procedures and imaging timeline
-
-#### ⚡ [`09-current-active/`](09-current-active/)
-Immediate concerns and active monitoring
-
-#### 📚 [`10-reference-materials/`](10-reference-materials/)
-Medical terminology and reference data
-
-#### 📊 [`11-data-exports/`](11-data-exports/)
-Structured data for analysis (CSV format)
-
-#### 🤖 [`12-automation-tools/`](12-automation-tools/)
-Templates and automation scripts
-
-## 🎯 Key Features
-
-- **Medical Encyclopedia Standards**: Objective documentation with clinical precision
-- **Pattern Recognition**: Statistical analysis of laboratory and symptom progression
-- **Cross-Referenced**: Comprehensive linking between related documentation
-- **Provider-Ready**: Formatted for medical professional review
-- **AI-Optimized**: Structured for Claude AI assistance and analysis
-- **Timeline Integrity**: Chronological accuracy with source verification
-
-## 📋 Current Status Summary
-
-**Latest Update**: June 2, 2025
-
-**Immediate Concerns**:
-- Neurological event frequency acceleration (4 events in 22 days)
-- Respiratory control dysfunction episodes
-- Laboratory-clinical paradox (improving labs, worsening symptoms)
-
-**Recent Events**:
-- May 29, 2025: Two-phase neurological event (100+ minutes, video documented)
-- May 26, 2025: ER visit for respiratory control dysfunction
-- Brain MRI scheduled: June 4, 2025
-
-## 🔐 Repository Guidelines
-
-**Documentation Standards**:
-- Objective, clinical language only
-- Source citations required for all data
-- Chronological accuracy maintained
-- No interpretative conclusions in raw data sections
-
-**Update Protocol**:
-- CURRENT-STATUS.md updated after any significant development
-- NEU updates for all discrete neurological events
-- Laboratory data added immediately upon receipt
-- Provider visit documentation within 24 hours
-
-## 📞 Emergency Context
-
-This repository serves as backup medical documentation. In medical emergencies, priority information is located in:
-1. [`CURRENT-STATUS.md`](CURRENT-STATUS.md) - Current symptoms and recent events
-2. [`09-current-active/medication-list-current.md`](09-current-active/medication-list-current.md) - Active medications
-3. [`04-provider-records/`](04-provider-records/) - Recent provider communications
+# Post-Viral Multi-System Syndrome: 5+ Year Longitudinal Case Study
+*Research-Grade Documentation for Medical Education & Collaborative Research*
 
 ---
 
-**Repository Purpose**: Comprehensive medical documentation to support ongoing care, pattern analysis, and medical research for complex post-viral syndrome case.
+## 🔬 Research Opportunity Overview
 
-**Last Repository Update**: June 2, 2025
+This repository contains **unprecedented comprehensive documentation** of post-viral multi-system syndrome progression from acute onset (November 10, 2019) through current active deterioration (June 2025). The case represents a unique research opportunity with systematic data collection, professional baseline documentation, and real-time progression capture.
+
+## 📊 Unique Research Value
+
+### **Baseline Documentation Excellence**
+- **Professional dancer background**: Elite proprioceptive training provides enhanced sensitivity to neurological changes
+- **Pre-illness health**: Previously healthy 27-year-old with comprehensive baseline data
+- **Systematic tracking**: Daily symptom documentation from disease onset
+
+### **Unprecedented Medical Patterns**
+- **Extreme immune oscillation**: 235% lymphocyte swing with complete reversal documented over 98 days
+- **Sequential cranial nerve involvement**: Systematic progression through multiple cranial nerves within 26 days
+- **Laboratory-clinical paradox**: Best laboratory values in 5+ years concurrent with worst neurological symptoms
+
+### **Multi-Institutional Validation**
+- **Mayo Clinic**: Comprehensive evaluation (March 2020)
+- **University of Utah Health**: Surgical inflammatory response analysis (2023)
+- **Benefis Health System**: 5+ years primary care documentation
+- **Great Falls Clinic**: Current laboratory monitoring
+
+## 🎯 Current Research Window
+
+### **Active Disease Progression** *(Time-Sensitive Opportunity)*
+- **Neurological event acceleration**: Multiple discrete episodes in recent weeks
+- **Respiratory control dysfunction**: Loss of automatic breathing drive documented May 26, 2025
+- **Motor system deterioration**: Progressive freeze states affecting feeding and mobility
+- **Real-time documentation**: Video evidence and vital sign correlation during episodes
+
+### **Research Questions This Case Can Address**
+1. **Post-viral syndrome pathophysiology**: Inflammatory to structural disease transition
+2. **Immune system recovery patterns**: Long-term trajectory analysis
+3. **Neurological progression markers**: Early warning sign identification
+4. **Professional baseline significance**: Enhanced detection sensitivity in trained populations
+
+## 📁 Repository Structure
+
+### **Core Documentation**
+- **[📋 CURRENT-STATUS.md](CURRENT-STATUS.md)** - Real-time medical status
+- **[📖 INSTRUCTIONS-FOR-CLAUDE.md](INSTRUCTIONS-FOR-CLAUDE.md)** - Documentation standards
+
+### **Research-Ready Data Sets**
+- **[📅 01-timeline/](01-timeline/)** - Chronological progression by disease phases
+- **[⚕️ 02-systems-documentation/](02-systems-documentation/)** - Analysis by organ system
+- **[🧪 03-laboratory-data/](03-laboratory-data/)** - 5+ year quantitative laboratory evolution
+- **[🏥 04-provider-records/](04-provider-records/)** - Multi-facility medical records
+- **[📊 05-symptom-tracking/](05-symptom-tracking/)** - Active symptom monitoring and episodic events
+
+### **Analysis & Patterns**
+- **[📈 06-analysis-and-patterns/](06-analysis-and-patterns/)** - Statistical analysis and correlation studies
+- **[💊 07-treatment-responses/](07-treatment-responses/)** - Comprehensive intervention tracking
+- **[🔬 08-imaging-and-procedures/](08-imaging-and-procedures/)** - Diagnostic timeline
+
+## 🎯 Research Collaboration Opportunities
+
+### **Immediate Research Value**
+- **Comprehensive baseline data** eliminating typical research data collection phase
+- **Real-time progression documentation** with video evidence and vital sign correlation
+- **Multi-system analysis ready** for immediate research application
+- **Long-term follow-up willing** for continued collaborative study
+
+### **Academic Potential**
+- **Case study publication** opportunities
+- **Research methodology model** for post-viral syndrome documentation
+- **Medical education resource** for complex case training
+- **Pattern recognition training** for healthcare providers
+
+## 📋 Documentation Standards
+
+- **Medical encyclopedia format**: Objective, clinical documentation
+- **Citation system**: Source verification for all data points
+- **Quantitative precision**: Specific dates, measurements, percentages
+- **Cross-referenced**: Comprehensive linking between related documentation
+
+## 🤝 Research Partnership Interest
+
+**This documentation system was created to support collaborative medical research while receiving optimal patient care.** The case represents a unique opportunity to study post-viral syndrome progression with unprecedented data quality and patient cooperation.
+
+### **Contact for Research Collaboration**
+*Available for qualified medical research institutions and clinical teams*
+
+---
+
+## ⚠️ Medical Disclaimer
+*This repository contains personal medical documentation for research and educational purposes. All treatment decisions should be made in consultation with qualified medical professionals.*
+
+---
+
+**Repository Status**: ✅ Public and accessible for medical research collaboration  
+**Last Updated**: June 3, 2025  
+**Research Collaboration**: Open to qualified institutions
