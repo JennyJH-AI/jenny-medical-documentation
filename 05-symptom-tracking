@@ -1,25 +1,45 @@
 05-symptom-tracking/README.md
 # Symptom Tracking
-*Active symptom monitoring and episodic event documentation*
+*Comprehensive symptom documentation and pattern analysis*
 
-## Active Tracking Files
+## Active Symptom Documentation
 
-- **NEU Updates Archive** - [`neu-updates-archive.md`](neu-updates-archive.md)
-  - Neurological Event Updates - discrete events requiring documentation
-  - **PRIORITY FILE** - Most actively maintained
+- **Neurological Events Archive** - [`neurological-events-archive.md`](neurological-events-archive.md)
+  - **PRIORITY FILE** - All discrete neurological events requiring documentation
+  - May 2025 events: respiratory control loss, tremor episodes, neurovascular events
+  - Pattern analysis and frequency tracking
 
-## Daily Patterns
-- [`daily-patterns/current-symptoms.md`](daily-patterns/current-symptoms.md) - Current active symptoms
-- [`daily-patterns/sleep-patterns.md`](daily-patterns/sleep-patterns.md) - Sleep architecture and patterns
-- [`daily-patterns/autonomic-episodes.md`](daily-patterns/autonomic-episodes.md) - Autonomic dysfunction episodes
-- [`daily-patterns/pain-tracking.md`](daily-patterns/pain-tracking.md) - Pain patterns and triggers
+- **Daily Symptom Patterns** - [`daily-symptom-patterns.md`](daily-symptom-patterns.md)
+  - Current active symptoms: autonomic dysfunction, motor issues, pain
+  - Sleep patterns: 4:00 AM awakening, autonomic sleep interruption
+  - Temperature regulation: persistent 99-100°F fever pattern
 
-## Episodic Events
-- [`episodic-events/major-episodes.md`](episodic-events/major-episodes.md) - Significant acute events
-- [`episodic-events/hospital-visits.md`](episodic-events/hospital-visits.md) - Emergency department and hospital visits
-- [`episodic-events/crisis-patterns.md`](episodic-events/crisis-patterns.md) - Crisis pattern analysis
+- **Episodic Crisis Events** - [`episodic-crisis-events.md`](episodic-crisis-events.md)
+  - Major episodes requiring emergency care or significant intervention
+  - Hospital visits, severe symptom clusters, crisis patterns
+  - Recovery timelines and triggering factors
 
-## Evolution Analysis
-- [`symptom-evolution.md`](symptom-evolution.md) - How symptoms have changed over time
+- **Autonomic Dysfunction Episodes** - [`autonomic-dysfunction-episodes.md`](autonomic-dysfunction-episodes.md)
+  - Tachycardia episodes >100 BPM, pre-syncope events
+  - Blood pressure abnormalities, temperature dysregulation
+  - Heart rate monitoring data and patterns
 
-*Last updated: June 2, 2025*
+## Symptom Evolution Analysis
+
+- **Symptom Progression Timeline** - [`symptom-progression-timeline.md`](symptom-progression-timeline.md)
+  - How symptoms changed from 2019 → 2025
+  - New symptom categories: respiratory control, vocal tremors, freeze states
+  - Frequency and severity trend analysis
+
+- **Pattern Recognition Analysis** - [`pattern-recognition-analysis.md`](pattern-recognition-analysis.md)
+  - Predictive indicators for major episodes
+  - Trigger identification and avoidance strategies
+  - Early warning signs and intervention timing
+
+## Current Priority Symptoms (2025)
+1. **Respiratory control dysfunction** - loss of automatic breathing drive
+2. **Progressive tremor patterns** - head, hands, vocal involvement
+3. **Autonomic instability** - daily tachycardia, rigid awakening patterns
+4. **Motor system freeze states** - new development post-May 29 episode
+
+*Last updated: June 3, 2025*
