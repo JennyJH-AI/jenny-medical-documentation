@@ -1,5 +1,4 @@
 # INSTRUCTIONS FOR CLAUDE
-# INSTRUCTIONS FOR CLAUDE
 *Persistent Context and Working Instructions*
 
 ## PATIENT OVERVIEW
