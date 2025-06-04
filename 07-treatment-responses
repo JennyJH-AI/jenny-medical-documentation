@@ -1,1 +1,34 @@
 07-treatment-responses
+# Treatment Responses
+*Comprehensive medication and intervention tracking*
+
+## Treatment Categories
+
+- **Medications Tried** - [`medications-tried.md`](medications-tried.md)
+  - Complete medication history with start/stop dates, dosages, and responses
+  - Includes psychiatric medications, symptom management, and trials
+- **Treatment Responses** - [`treatment-responses.md`](treatment-responses.md)
+  - What helped, what didn't work, what caused adverse reactions
+  - Quantified response ratings and duration of effects
+- **Surgical Responses** - [`surgical-responses.md`](surgical-responses.md)
+  - 2023 hip surgery extreme inflammatory response documentation
+  - Pre/post surgical laboratory changes and recovery patterns
+- **Supplement Trials** - [`supplement-trials.md`](supplement-trials.md)
+  - Vitamins, minerals, herbal supplements tried
+  - Dosages, duration, and observed effects (positive/negative/neutral)
+- **Intervention Analysis** - [`intervention-analysis.md`](intervention-analysis.md)
+  - Systematic evaluation of all treatments
+  - Success patterns, failure patterns, and predictive factors
+
+## Key Treatment Patterns Documented
+- **Medication tolerance changes** post-viral onset
+- **Inflammatory hyperreactivity** to surgical stress
+- **Paradoxical responses** to standard treatments
+- **Timing correlations** between interventions and symptom changes
+
+## Cross-References
+- Links to laboratory data showing treatment effects
+- Timeline correlations with symptom progression
+- Provider records documenting treatment decisions
+
+*Last updated: June 3, 2025*
