@@ -1,23 +1,43 @@
 04-provider-records/README.md
 # Provider Records
-*Healthcare system documentation and provider interactions*
+*Healthcare system documentation organized by facility and time period*
 
-## Healthcare Facilities
+## Provider Files by Facility
 
 ### Benefis Health System
-- [`benefis-health-system/2019-records/`](benefis-health-system/2019-records/) - Initial presentation and acute phase
-- [`benefis-health-system/2020-records/`](benefis-health-system/2020-records/) - Ongoing care
-- [`benefis-health-system/2025-records/`](benefis-health-system/2025-records/) - Recent crisis documentation
+- **Acute Phase Records** - [`benefis-2019-2020-acute-phase.md`](benefis-2019-2020-acute-phase.md)
+  - Initial presentation, ER visits, extensive workup period
+  - Labs, imaging, specialist consultations during crisis
+- **Current Crisis Records** - [`benefis-2025-current-crisis.md`](benefis-2025-current-crisis.md)
+  - Recent ER visit May 26, 2025, current provider interactions
+  - Dr. Madill ER documentation, ongoing primary care with Dr. Chrzanowski
 
 ### Mayo Clinic
-- [`mayo-clinic/march-2020-comprehensive/`](mayo-clinic/march-2020-comprehensive/) - Comprehensive evaluation
-- [`mayo-clinic/provider-assessments.md`](mayo-clinic/provider-assessments.md) - Provider conclusions
+- **Comprehensive Evaluation** - [`mayo-march-2020-comprehensive.md`](mayo-march-2020-comprehensive.md)
+  - Complete March 2020 workup, all specialist consultations
+  - Holter monitor, infectious disease, sleep medicine, neurology assessments
+  - Final conclusions and treatment recommendations
 
-### Other Facilities
-- [`university-utah/surgical-records-2023/`](university-utah/surgical-records-2023/) - Hip surgery inflammatory response
-- [`great-falls-clinic/recent-labs-2025/`](great-falls-clinic/recent-labs-2025/) - Current laboratory monitoring
+### University of Utah Health
+- **Surgical Response Documentation** - [`university-utah-surgical-2023.md`](university-utah-surgical-2023.md)
+  - Hip surgery May-July 2023, extreme inflammatory response
+  - Pre/post surgical labs, infection development, recovery patterns
 
-## Analysis
-- [`provider-analysis.md`](provider-analysis.md) - Patterns in provider responses and healthcare utilization
+### Great Falls Clinic
+- **Recent Laboratory Monitoring** - [`great-falls-clinic-recent-labs.md`](great-falls-clinic-recent-labs.md)
+  - January 2025 labs showing immune recovery
+  - Routine monitoring and medication management
 
-*Last updated: June 2, 2025*
+## Analysis and Patterns
+- **Provider Response Patterns** - [`provider-analysis-patterns.md`](provider-analysis-patterns.md)
+  - Healthcare utilization timeline, provider dismissal patterns
+  - Treatment approaches across different facilities
+  - Systematic analysis of care quality and outcomes
+
+## Key Provider Insights
+- **2019-2020**: Extensive workup, mostly normal results except functional studies
+- **2020-2023**: Sparse monitoring, gradual improvement in some parameters
+- **2023**: Surgical stress revealed preserved inflammatory capacity
+- **2025**: Laboratory improvement concurrent with clinical deterioration
+
+*Last updated: June 3, 2025*
