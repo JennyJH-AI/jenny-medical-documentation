@@ -1,17 +1,57 @@
 12-automation-tools/README.md
 # Automation Tools
-*Templates and tools for consistent documentation*
+*Templates and utilities for consistent medical documentation*
 
-## Templates
-- [`templates/neu-update-template.md`](templates/neu-update-template.md) - Template for neurological events
-- [`templates/lab-result-template.md`](templates/lab-result-template.md) - Template for new lab results
-- [`templates/provider-visit-template.md`](templates/provider-visit-template.md) - Template for provider visits
+## Documentation Templates
 
-## Scripts
-- [`scripts/data-analysis.py`](scripts/data-analysis.py) - Python scripts for analysis
-- [`scripts/report-generator.py`](scripts/report-generator.py) - Automated report generation
+- **Neurological Event Template** - [`neurological-event-template.md`](neurological-event-template.md)
+  - Standardized format for documenting new neurological events
+  - Ensures consistent data capture: date, duration, symptoms, triggers, context
+  - Links to related systems and cross-references
 
-## Documentation
-- [`automation-readme.md`](automation-readme.md) - How to use automation tools
+- **Laboratory Result Template** - [`laboratory-result-template.md`](laboratory-result-template.md)
+  - Format for new lab results with historical comparison
+  - Automatic trend analysis prompts and reference range context
+  - Integration points with existing laboratory evolution files
 
-*Last updated: June 2, 2025*
+- **Provider Visit Template** - [`provider-visit-template.md`](provider-visit-template.md)
+  - Pre-visit preparation checklist and question framework
+  - Post-visit documentation format with action items
+  - Provider response pattern tracking
+
+- **Crisis Episode Template** - [`crisis-episode-template.md`](crisis-episode-template.md)
+  - Emergency department visit documentation format
+  - Symptom severity scales, timeline tracking, intervention responses
+  - Follow-up requirements and pattern analysis
+
+## Data Analysis Tools
+
+- **Statistical Analysis Guide** - [`statistical-analysis-guide.md`](statistical-analysis-guide.md)
+  - Methods for analyzing laboratory trends and symptom patterns
+  - Correlation analysis between different data types
+  - Significance testing and confidence intervals for medical data
+
+- **Report Generation Guide** - [`report-generation-guide.md`](report-generation-guide.md)
+  - Templates for provider appointment summaries
+  - Research collaboration data packages
+  - Insurance documentation formats
+
+## Automation Guidelines
+
+- **Consistent Documentation Standards** - [`documentation-standards.md`](documentation-standards.md)
+  - Citation format requirements (*, **, *** system)
+  - Medical terminology guidelines and abbreviation standards
+  - Cross-referencing protocols between files
+
+- **Data Integrity Protocols** - [`data-integrity-protocols.md`](data-integrity-protocols.md)
+  - Verification procedures for new data entry
+  - Quality control checklists for complex medical information
+  - Error detection and correction procedures
+
+## Usage Instructions
+1. **Before documenting new events**: Use appropriate template
+2. **After provider visits**: Complete visit template and update relevant files
+3. **Monthly reviews**: Use analysis guides to identify new patterns
+4. **Data exports**: Follow report generation formats for external sharing
+
+*Last updated: June 3, 2025*
