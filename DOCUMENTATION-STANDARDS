@@ -1,0 +1,328 @@
+DOCUMENTATION-STANDARDS.README.md
+# DOCUMENTATION STANDARDS & REPOSITORY GUIDELINES
+*Quality Assurance and Consistency Standards for Medical Documentation*
+
+---
+
+## 📋 CASE OVERVIEW
+
+**Patient:** Post-viral multi-system syndrome (onset November 10, 2019)  
+**Documentation Period:** 5+ years ongoing  
+**Current Status:** Laboratory recovery concurrent with neurological deterioration  
+**Repository Purpose:** Comprehensive medical reference for personal care and provider communication
+
+## 🎯 CRITICAL CLINICAL CONTEXT
+
+### **Professional Baseline Significance**
+- **Background:** Former professional ballerina with elite proprioceptive training
+- **Clinical Importance:** Enhanced sensitivity to neurological changes; balance dysfunction in trained dancer represents massive neurological disruption
+- **Baseline Health:** Previously healthy 27-year-old with no significant medical history prior to November 2019
+
+### **Disease Onset & Progression**
+- **November 10, 2019:** Viral meningitis presentation (exact date documented by multiple providers)
+- **Initial Response:** Provider dismissed meningitis despite textbook symptoms; delayed lumbar puncture when acute findings no longer detectable
+- **Current Paradox:** Best laboratory values in 5+ years coinciding with worst neurological symptoms
+
+---
+
+## 📚 DOCUMENTATION STANDARDS
+
+### **Writing Requirements**
+- **Medical textbook format:** Factual, objective, systematic documentation
+- **Clinical precision:** Quantitative data over qualitative descriptions
+- **Source verification:** Every claim must be properly cited
+- **Temporal accuracy:** Exact dates and chronological precision
+- **Cross-referencing:** Comprehensive linking between related information
+
+### **Citation System**
+**Format:** [Source-Code] with asterisk indicators
+- **Single asterisk (*):** Primary sources
+- **Double asterisk (**):** Secondary sources  
+- **Triple asterisk (***):** Patient analysis
+- **Source codes:** [BHS-Nov2019-Labs], [MAYO-Mar2020-Holter], [UU-Jul2023-Surgery]
+
+### **Organizational Principles**
+1. **Chronological accuracy** with exact timelines
+2. **Quantitative precision** using specific measurements
+3. **Systematic categorization** for consistent organization
+4. **Scalable structure** allowing easy information addition
+5. **Provider accessibility** for medical professional review
+
+---
+
+## 🔬 KEY MEDICAL DOCUMENTATION
+
+### **Disease Timeline Phases**
+- **Phase 1 (Nov 2019):** Viral onset with classic meningitis triad
+- **Phase 2 (Nov 2019-Mar 2020):** Acute cascade with sequential cranial nerve involvement
+- **Phase 3 (2020-2023):** Chronic adaptation with partial system recovery
+- **Phase 4 (2024-2025):** Current crisis with neurological deterioration despite immune recovery
+
+### **Laboratory Evolution Patterns**
+**Immune System Trajectory:**
+- **Acute Phase:** Extreme oscillation (neutrophil 85%→48%, lymphocyte 14%→47%)
+- **Chronic Phase:** Suppression (WBC consistently low 2020-2024)
+- **Current Status:** Recovery to optimal levels (WBC 7.5 K/uL, best in 5+ years)
+
+**Organ System Recovery Analysis:**
+- **Kidney Function:** BUN 15→24→14 mg/dL (2+ year recovery timeline)
+- **Liver Function:** Cyclical dysfunction with rapid recovery capacity
+- **Thyroid System:** Complete normalization (only fully recovered system)
+- **Neurological:** Progressive deterioration despite other system recovery
+
+### **Current Active Symptoms (2025)**
+- **Respiratory Control Dysfunction:** Loss of automatic breathing drive
+- **Severe Motor Symptoms:** Generalized tremors affecting speech and function
+- **Autonomic Instability:** Daily tachycardia with rigid circadian disruption
+- **Neurovascular Events:** Recurring phenomena with evolving characteristics
+
+---
+
+## 📊 DATA MANAGEMENT PROTOCOLS
+
+### **Update Priorities**
+1. **CURRENT-STATUS.md** - immediate updates for any significant development
+2. **Timeline documentation** - chronological accuracy maintenance
+3. **Laboratory integration** - immediate addition of new results
+4. **Provider documentation** - visit records within 24 hours
+5. **Pattern analysis** - correlation tracking across systems
+
+### **Quality Assurance Standards**
+- **Source verification** for all data points
+- **Cross-reference validation** between related documents
+- **Quantitative precision** over subjective descriptions
+- **Timeline integrity** with exact chronological documentation
+- **Clinical relevance** focus for all additions
+
+### **Pattern Recognition Focus**
+- **Sequential system involvement** tracking
+- **Recovery vs. progression patterns** analysis
+- **Trigger identification** for episodic events
+- **Correlation analysis** between different measurements
+- **Predictive indicator** development
+
+---
+
+## 🗂️ REPOSITORY STRUCTURE GUIDELINES
+
+### **Primary Reference Files**
+- **CURRENT-STATUS.md** - always up-to-date medical status
+- **Timeline files** - complete chronological disease progression
+- **Laboratory data** - quantitative evolution tracking
+- **Provider records** - multi-institutional documentation
+
+### **Documentation Hierarchy**
+1. **Current status** - immediate medical priorities
+2. **Timeline progression** - chronological disease evolution
+3. **Systems analysis** - organ-specific documentation
+4. **Provider records** - healthcare interaction documentation
+5. **Active monitoring** - real-time symptom tracking
+
+### **Maintenance Requirements**
+- **Regular updates** after any medical development
+- **Monthly pattern review** for correlation analysis
+- **Quarterly comprehensive review** for data integrity
+- **Annual timeline verification** for historical accuracy
+
+---
+
+## 🎯 COMMUNICATION STANDARDS
+
+### **Response Format Requirements**
+- **Lead with key findings** - most critical information first
+- **Structured organization** - headers, lists, tables for clarity
+- **Contextual significance** - explain importance of findings
+- **Cross-referencing** - link to related documentation
+- **Quantitative emphasis** - numbers and percentages over descriptions
+
+### **Analysis Approach**
+- **Statistical comparison** with historical values
+- **Pattern identification** across multiple data points
+- **System interaction analysis** between different organs
+- **Recovery modeling** based on documented trajectories
+- **Progression tracking** with quantified rate analysis
+
+---
+
+## ⚠️ DOCUMENTATION LIMITATIONS
+
+### **Scope Boundaries**
+- **Documentation only** - not diagnosis or treatment recommendations
+- **Factual reporting** - no medical interpretation beyond pattern recognition
+- **Historical accuracy** - objective recording of events and measurements
+- **Provider support** - organized information for medical decision-making
+
+### **Update Protocols**
+- **Immediate priority** - CURRENT-STATUS.md for any significant development
+- **Timeline maintenance** - chronological accuracy for all new events
+- **Source documentation** - proper citation for all new information
+- **Cross-reference updates** - maintain links between related documents
+
+---
+
+**Documentation Standards Purpose:** Ensure consistent, high-quality medical documentation supporting comprehensive care coordination and accurate historical medical reference.
+
+**Last Standards Review:** June 2025# DOCUMENTATION STANDARDS & REPOSITORY GUIDELINES
+*Quality Assurance and Consistency Standards for Medical Documentation*
+
+---
+
+## 📋 CASE OVERVIEW
+
+**Patient:** Post-viral multi-system syndrome (onset November 10, 2019)  
+**Documentation Period:** 5+ years ongoing  
+**Current Status:** Laboratory recovery concurrent with neurological deterioration  
+**Repository Purpose:** Comprehensive medical reference for personal care and provider communication
+
+## 🎯 CRITICAL CLINICAL CONTEXT
+
+### **Professional Baseline Significance**
+- **Background:** Former professional ballerina with elite proprioceptive training
+- **Clinical Importance:** Enhanced sensitivity to neurological changes; balance dysfunction in trained dancer represents massive neurological disruption
+- **Baseline Health:** Previously healthy 27-year-old with no significant medical history prior to November 2019
+
+### **Disease Onset & Progression**
+- **November 10, 2019:** Viral meningitis presentation (exact date documented by multiple providers)
+- **Initial Response:** Provider dismissed meningitis despite textbook symptoms; delayed lumbar puncture when acute findings no longer detectable
+- **Current Paradox:** Best laboratory values in 5+ years coinciding with worst neurological symptoms
+
+---
+
+## 📚 DOCUMENTATION STANDARDS
+
+### **Writing Requirements**
+- **Medical textbook format:** Factual, objective, systematic documentation
+- **Clinical precision:** Quantitative data over qualitative descriptions
+- **Source verification:** Every claim must be properly cited
+- **Temporal accuracy:** Exact dates and chronological precision
+- **Cross-referencing:** Comprehensive linking between related information
+
+### **Citation System**
+**Format:** [Source-Code] with asterisk indicators
+- **Single asterisk (*):** Primary sources
+- **Double asterisk (**):** Secondary sources  
+- **Triple asterisk (***):** Patient analysis
+- **Source codes:** [BHS-Nov2019-Labs], [MAYO-Mar2020-Holter], [UU-Jul2023-Surgery]
+
+### **Organizational Principles**
+1. **Chronological accuracy** with exact timelines
+2. **Quantitative precision** using specific measurements
+3. **Systematic categorization** for consistent organization
+4. **Scalable structure** allowing easy information addition
+5. **Provider accessibility** for medical professional review
+
+---
+
+## 🔬 KEY MEDICAL DOCUMENTATION
+
+### **Disease Timeline Phases**
+- **Phase 1 (Nov 2019):** Viral onset with classic meningitis triad
+- **Phase 2 (Nov 2019-Mar 2020):** Acute cascade with sequential cranial nerve involvement
+- **Phase 3 (2020-2023):** Chronic adaptation with partial system recovery
+- **Phase 4 (2024-2025):** Current crisis with neurological deterioration despite immune recovery
+
+### **Laboratory Evolution Patterns**
+**Immune System Trajectory:**
+- **Acute Phase:** Extreme oscillation (neutrophil 85%→48%, lymphocyte 14%→47%)
+- **Chronic Phase:** Suppression (WBC consistently low 2020-2024)
+- **Current Status:** Recovery to optimal levels (WBC 7.5 K/uL, best in 5+ years)
+
+**Organ System Recovery Analysis:**
+- **Kidney Function:** BUN 15→24→14 mg/dL (2+ year recovery timeline)
+- **Liver Function:** Cyclical dysfunction with rapid recovery capacity
+- **Thyroid System:** Complete normalization (only fully recovered system)
+- **Neurological:** Progressive deterioration despite other system recovery
+
+### **Current Active Symptoms (2025)**
+- **Respiratory Control Dysfunction:** Loss of automatic breathing drive
+- **Severe Motor Symptoms:** Generalized tremors affecting speech and function
+- **Autonomic Instability:** Daily tachycardia with rigid circadian disruption
+- **Neurovascular Events:** Recurring phenomena with evolving characteristics
+
+---
+
+## 📊 DATA MANAGEMENT PROTOCOLS
+
+### **Update Priorities**
+1. **CURRENT-STATUS.md** - immediate updates for any significant development
+2. **Timeline documentation** - chronological accuracy maintenance
+3. **Laboratory integration** - immediate addition of new results
+4. **Provider documentation** - visit records within 24 hours
+5. **Pattern analysis** - correlation tracking across systems
+
+### **Quality Assurance Standards**
+- **Source verification** for all data points
+- **Cross-reference validation** between related documents
+- **Quantitative precision** over subjective descriptions
+- **Timeline integrity** with exact chronological documentation
+- **Clinical relevance** focus for all additions
+
+### **Pattern Recognition Focus**
+- **Sequential system involvement** tracking
+- **Recovery vs. progression patterns** analysis
+- **Trigger identification** for episodic events
+- **Correlation analysis** between different measurements
+- **Predictive indicator** development
+
+---
+
+## 🗂️ REPOSITORY STRUCTURE GUIDELINES
+
+### **Primary Reference Files**
+- **CURRENT-STATUS.md** - always up-to-date medical status
+- **Timeline files** - complete chronological disease progression
+- **Laboratory data** - quantitative evolution tracking
+- **Provider records** - multi-institutional documentation
+
+### **Documentation Hierarchy**
+1. **Current status** - immediate medical priorities
+2. **Timeline progression** - chronological disease evolution
+3. **Systems analysis** - organ-specific documentation
+4. **Provider records** - healthcare interaction documentation
+5. **Active monitoring** - real-time symptom tracking
+
+### **Maintenance Requirements**
+- **Regular updates** after any medical development
+- **Monthly pattern review** for correlation analysis
+- **Quarterly comprehensive review** for data integrity
+- **Annual timeline verification** for historical accuracy
+
+---
+
+## 🎯 COMMUNICATION STANDARDS
+
+### **Response Format Requirements**
+- **Lead with key findings** - most critical information first
+- **Structured organization** - headers, lists, tables for clarity
+- **Contextual significance** - explain importance of findings
+- **Cross-referencing** - link to related documentation
+- **Quantitative emphasis** - numbers and percentages over descriptions
+
+### **Analysis Approach**
+- **Statistical comparison** with historical values
+- **Pattern identification** across multiple data points
+- **System interaction analysis** between different organs
+- **Recovery modeling** based on documented trajectories
+- **Progression tracking** with quantified rate analysis
+
+---
+
+## ⚠️ DOCUMENTATION LIMITATIONS
+
+### **Scope Boundaries**
+- **Documentation only** - not diagnosis or treatment recommendations
+- **Factual reporting** - no medical interpretation beyond pattern recognition
+- **Historical accuracy** - objective recording of events and measurements
+- **Provider support** - organized information for medical decision-making
+
+### **Update Protocols**
+- **Immediate priority** - CURRENT-STATUS.md for any significant development
+- **Timeline maintenance** - chronological accuracy for all new events
+- **Source documentation** - proper citation for all new information
+- **Cross-reference updates** - maintain links between related documents
+
+---
+
+**Documentation Standards Purpose:** Ensure consistent, high-quality medical documentation supporting comprehensive care coordination and accurate historical medical reference.
+
+**Last Standards Review:** June 2025
