@@ -1,4 +1,3 @@
-# CURRENT STATUS
 # CURRENT STATUS: Active Medical Crisis
 *Last Updated: June 4, 2025*
 
