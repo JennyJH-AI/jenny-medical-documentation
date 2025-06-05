@@ -10,7 +10,7 @@
 **Pattern Shift:** Episodic (72-hour cycles) → persistent daily dysfunction***  
 **Laboratory Paradox:** Best lab values in years concurrent with worst neurological symptoms****  
 
-*[Patient Documentation-May2025 Crisis Timeline] **[Timeline Calculation] ***[PME-Analysis-Pattern Shift] ****[GFC-LAB-Jan21,2025 vs Current Symptoms]
+*[Patient-Documentation-May2025-Crisis-Timeline] **[Timeline-Calculation-Nov2019-Jun2025] ***[Pattern-Analysis-Episodic-to-Persistent] ****[GFC-LAB-Jan21,2025-vs-Current-Symptoms]
 
 ---
 
@@ -24,7 +24,7 @@
 5. **Positional triggers** - bending/position changes causing neurological crises*****
 6. **Motor system dysfunction** - progressive freeze states affecting feeding/mobility******
 
-*[BHS-ER-May26,2025-Chief Complaint] **[Patient Daily Documentation-Autonomic Episodes] ***[Urgent Care-May22,2025-Tremor Documentation] ****[Patient Documentation-May7,May23-Neurovascular Events] *****[Patient Documentation-June2,2025-Positional Event] ******[Patient Documentation-Freeze States]
+*[BHS-ER-May26,2025-Chief-Complaint] **[Patient-Daily-Documentation-Autonomic-Episodes] ***[Urgent-Care-May22,2025-Tremor-Documentation] ****[Patient-Documentation-May7-May23-Neurovascular-Events] *****[Patient-Documentation-Jun2,2025-Positional-Event] ******[Patient-Documentation-Freeze-States]
 
 ---
 
@@ -39,7 +39,7 @@
 - **Temperature deviations:** Persistent elevations (May 13: +0.38°C, May 16: +0.24°C, May 26: +0.17°C)******
 - **Sleep disruption:** Rigid 4:00 AM awakening pattern*******
 
-*[Oura Trends Data-May2025-HRV Crash Documentation] **[Oura Trends Data-May2025-HR Range] ***[Oura Trends Data-May26-ER Day HR] ****[Patient Home Testing-May9,2025-Autonomic Response] *****[Patient Daily Documentation-Tachycardia] ******[Oura Trends Data-May2025-Temperature Validation] *******[Patient Documentation-Sleep Pattern]
+*[Oura-Trends-Data-May2025-HRV-Crash-Documentation] **[Oura-Trends-Data-May2025-HR-Range] ***[Oura-Trends-Data-May26-ER-Day-HR] ****[Patient-Home-Testing-May9,2025-Autonomic-Response] *****[Patient-Daily-Documentation-Tachycardia] ******[Oura-Trends-Data-May2025-Temperature-Validation] *******[Patient-Documentation-Sleep-Pattern]
 
 ### **Respiratory Monitoring (June 2025 - Wellue Ring Precision Data):**
 **June 4, 2025 (7:58am-3:08pm):**
@@ -59,7 +59,7 @@
 
 **Clinical Significance:** Objective validation of respiratory control dysfunction with life-threatening oxygen desaturations during routine activities**********
 
-*-**********[Wellue Ring Precision Data-June 2025-Unaveraged Measurements]
+*-**********[Wellue-Ring-Precision-Data-Jun2025-Unaveraged-Measurements]
 
 ---
 
@@ -80,7 +80,7 @@
 
 **Clinical Significance:** Transition from inflammatory to structural/functional neurological pathophysiology**********
 
-*-*****[GFC-LAB-Jan21,2025-Complete Panel] ******-*********[Patient Daily Documentation vs Laboratory Recovery] **********[PME-Analysis-Pathophysiology Transition]
+*-*****[GFC-LAB-Jan21,2025-Complete-Panel] ******-*********[Patient-Daily-Documentation-vs-Laboratory-Recovery] **********[Pattern-Analysis-Pathophysiology-Transition]
 
 ---
 
@@ -92,7 +92,7 @@
 **Laboratory Abnormalities:** Sodium 136 mmol/L (LOW), ALT 74 U/L (HIGH), AST 65 U/L (HIGH)***  
 **ECG Finding:** "ABNORMAL ECG - PROBABLE ANTEROSEPTAL INFARCT, OLD"****  
 
-*[BHS-ER-May26,2025-Chief Complaint] **[BHS-ER-May26,2025-Secondary Symptoms] ***[BHS-ER-May26,2025-Laboratory Results] ****[BHS-ER-May26,2025-ECG]
+*[BHS-ER-May26,2025-Chief-Complaint] **[BHS-ER-May26,2025-Secondary-Symptoms] ***[BHS-ER-May26,2025-Laboratory-Results] ****[BHS-ER-May26,2025-ECG]
 
 ### **June 2, 2025 - Positional Trigger Event:**
 **Trigger:** Bending at waist while cleaning*****  
